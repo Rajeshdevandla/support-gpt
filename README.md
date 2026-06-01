@@ -1,4 +1,4 @@
-# SupportGPT 🤖
+# SupportGPT
 
 An AI-powered customer support assistant that handles common support questions automatically, detects frustrated customers, and escalates to human agents when needed.
 
